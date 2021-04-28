@@ -1,0 +1,10 @@
+name = "US_Spending"
+uuid = "f4295e41-9c1b-4049-b7a6-018c6b4b56c3"
+authors = ["José Bayoán Santiago Calderón <jbs3hp@virginia.edu>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
